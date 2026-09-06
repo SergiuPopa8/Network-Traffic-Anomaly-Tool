@@ -53,7 +53,7 @@ def process_packet(packet):
             print("Prediction error:", e)
     print(packet.summary())
 
-print("Starting IDS...")
+print("Starting Tool...")
 sniff(prn=process_packet, store=0)
 
 
