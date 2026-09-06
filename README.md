@@ -3,4 +3,5 @@ This tool captures the LAN trafic between two devices. It detects potential unwa
 
 # Usage 
 
-Clone the repository, then create a virtual environment.
+Clone the repository, then create a virtual environment. 
+Use `python3 train_model.py` to train the model first. After training the model, use `python3 live_ids.py` to start the program.
