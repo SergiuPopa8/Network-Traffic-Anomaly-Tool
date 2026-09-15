@@ -1,0 +1,5 @@
+scapy
+pandas
+joblib
+scikit-learn
+numpy
